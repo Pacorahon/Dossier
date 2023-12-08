@@ -14,3 +14,7 @@ ggplot(data, aes(x = x, y = y)) +
   ggtitle("Simple Scatter Plot") +
   xlab("X Axis Label") +
   ylab("Y Axis Label")
+
+print(data)
+
+print("test updrate git")
